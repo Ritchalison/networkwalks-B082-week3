@@ -1,6 +1,6 @@
-# NETWORKWALKS Cybersecurity Internship — Week 3
+# Password Cracking with John the Ripper, Johnny & NETWORKWALKS Tools
 
-**Password Cracking with John the Ripper, Johnny & NETWORKWALKS Tools**  
+**NETWORKWALKS Cybersecurity Internship — Week 3**  
 **Batch B082**
 
 Week 3 focused on password recovery from a protected PDF using two different workflows: a local **John the Ripper / Johnny** setup and the browser-based **NETWORKWALKS Hash Calculator and Password Cracker**.
